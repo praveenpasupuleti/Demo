@@ -1,0 +1,3 @@
+C:\Users\praveen pasupuleti\Documents\GitHub> git clone https://github.com/praveenpasupuleti/Demo.git
+C:\Users\praveen pasupuleti\Documents\GitHub> cd Demo
+C:\Users\praveen pasupuleti\Documents\GitHub\Demo [master +1 ~0 -0 !]>
