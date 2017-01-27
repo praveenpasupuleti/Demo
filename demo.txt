@@ -1,3 +1,6 @@
 C:\Users\praveen pasupuleti\Documents\GitHub> git clone https://github.com/praveenpasupuleti/Demo.git
 C:\Users\praveen pasupuleti\Documents\GitHub> cd Demo
-C:\Users\praveen pasupuleti\Documents\GitHub\Demo [master +1 ~0 -0 !]>
+C:\Users\praveen pasupuleti\Documents\GitHub\Demo [master +1 ~0 -0 !]> ls
+C:\Users\praveen pasupuleti\Documents\GitHub\Demo [master +1 ~0 -0 !]> git add demo.txt
+C:\Users\praveen pasupuleti\Documents\GitHub\Demo [master +1 ~0 -0 ~]> git commit -m "reference"
+C:\Users\praveen pasupuleti\Documents\GitHub\Demo [master]> git push
